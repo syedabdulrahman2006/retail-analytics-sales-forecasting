@@ -1,0 +1,8 @@
+# Python cache & virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE settings & local caches
+.vscode/
+.streamlit/
